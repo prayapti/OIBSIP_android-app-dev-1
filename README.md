@@ -21,8 +21,9 @@ A simple and interactive **Quiz App** that allows users to answer multiple-choic
 
 **Screenshots:**
 
-![Quiz App Screenshot 1](QUIZ APPLICATION.jpg)  
-![Quiz App Screenshot 2](QUIZ 2.jpg)  
+![Quiz App Screenshot 1](QUIZ APPLICATION.JPG)  
+![Quiz App Screenshot 2](QUIZ 2.JPG)  
+
 ---
 
 ### 2. Unit Converter
@@ -35,12 +36,13 @@ A **Unit Conversion App** that helps users convert values between different unit
 
 **Screenshot:**
 
-![Unit Converter Screenshot](images/unitconerter.jpg)
+![Unit Converter Screenshot](unitconerter.jpg)
 
 ---
 
 ## How to Run
 
 1. Clone the repository:
+
 ```bash
 git clone <your-repo-link>
