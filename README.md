@@ -21,9 +21,8 @@ A simple and interactive **Quiz App** that allows users to answer multiple-choic
 
 **Screenshots:**
 
-![Quiz App Screenshot 1](images/QUIZ%20APPLICATION.JPG)  
-![Quiz App Screenshot 2](images/QUIZ%202.JPG)  
-
+![Quiz App Screenshot 1](QUIZ APPLICATION.jpg)  
+![Quiz App Screenshot 2](QUIZ 2.jpg)  
 ---
 
 ### 2. Unit Converter
