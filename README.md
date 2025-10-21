@@ -20,13 +20,9 @@ A simple and interactive **Quiz App** that allows users to answer multiple-choic
 - Instant feedback on answers  
 - Final score calculation  
 
-**Screenshots:**
-
-![Quiz App Screenshot 1](QUIZ APPLICATION.JPG)  
-*Quiz App Screenshot 1*
-
-![Quiz App Screenshot 2](QUIZ 2.JPG)  
-*Quiz App Screenshot 2*
+**Screenshots:**  
+You can view the screenshot [here](https://drive.google.com/file/d/1lfwgdZuHSPzuo_zrlih560UJWOwW2iHE/view?usp=sharing).
+You can view the screenshots [here](https://drive.google.com/file/d/1bU2C8OKBdHpIYO0szWA-3BvBRynra0b3/view?usp=sharing).
 
 ---
 
@@ -39,10 +35,9 @@ A **Unit Conversion App** that helps users convert values between different unit
 - User-friendly interface  
 - Real-time calculations  
 
-**Screenshot:**
+**Screenshot:**  
+You can view the screenshot [here](https://drive.google.com/file/d/1GDoOR8Fc3Ux2rZ3b847UpVrF_5zNRD6y/view?usp=sharing).
 
-![Unit Converter Screenshot](unitconerter.jpg)  
-*Unit Converter Screenshot*
 
 ---
 
