@@ -12,7 +12,8 @@ This repository contains the projects I built during my **Android App Developmen
 ## Projects
 
 ### 1. Quiz Application
-A simple and interactive **Quiz App** that allows users to answer multiple-choice questions and see their results at the end.  
+
+A simple and interactive **Quiz App** that allows users to answer multiple-choice questions and see their results at the end.
 
 **Features:**
 - Multiple-choice questions  
@@ -22,12 +23,16 @@ A simple and interactive **Quiz App** that allows users to answer multiple-choic
 **Screenshots:**
 
 ![Quiz App Screenshot 1](QUIZ APPLICATION.JPG)  
+*Quiz App Screenshot 1*
+
 ![Quiz App Screenshot 2](QUIZ 2.JPG)  
+*Quiz App Screenshot 2*
 
 ---
 
 ### 2. Unit Converter
-A **Unit Conversion App** that helps users convert values between different units (e.g., length, weight, temperature, etc.).  
+
+A **Unit Conversion App** that helps users convert values between different units (e.g., length, weight, temperature, etc.).
 
 **Features:**
 - Convert between multiple units  
@@ -36,7 +41,8 @@ A **Unit Conversion App** that helps users convert values between different unit
 
 **Screenshot:**
 
-![Unit Converter Screenshot](unitconerter.jpg)
+![Unit Converter Screenshot](unitconerter.jpg)  
+*Unit Converter Screenshot*
 
 ---
 
